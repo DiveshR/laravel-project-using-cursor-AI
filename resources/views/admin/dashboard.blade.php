@@ -8,7 +8,7 @@
         <div class="small-box bg-info">
             <div class="inner">
                 <h3>150</h3>
-                <p>Total Users</p>
+                <p>Total Agents</p>
             </div>
             <div class="icon">
                 <i class="fas fa-users"></i>
@@ -20,7 +20,7 @@
         <div class="small-box bg-success">
             <div class="inner">
                 <h3>53</h3>
-                <p>Active Users</p>
+                <p>Total Clients</p>
             </div>
             <div class="icon">
                 <i class="fas fa-user-check"></i>
@@ -32,7 +32,7 @@
         <div class="small-box bg-warning">
             <div class="inner">
                 <h3>44</h3>
-                <p>Inactive Users</p>
+                <p>Total Leads</p>
             </div>
             <div class="icon">
                 <i class="fas fa-user-clock"></i>
@@ -44,7 +44,7 @@
         <div class="small-box bg-danger">
             <div class="inner">
                 <h3>65</h3>
-                <p>Admin Users</p>
+                <p>Total Prodcuts</p>
             </div>
             <div class="icon">
                 <i class="fas fa-user-shield"></i>
